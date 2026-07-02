@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00D9FF&height=200&section=header&text=Aditya%20Srivastava&fontSize=48&fontColor=fff&fontAlignY=35&desc=AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descSize=20&animation=fadeIn"/>
+# Aditya Srivastava
+
+<img src="https://img.shields.io/badge/AI%20%26%20Full%20Stack%20Engineer-8A2BE2?style=for-the-badge"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/aditya-srivastava29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:adityasri654@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -165,7 +169,5 @@ Next.js application that generates structured content using Groq, with real-time
 <img src="https://komarev.com/ghpvc/?username=adi-codeartist001&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
 
 **Open to Software Engineering / AI Engineering roles — let's build something.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8A2BE2&height=100&section=footer"/>
 
 </div>

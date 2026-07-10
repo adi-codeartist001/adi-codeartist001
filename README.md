@@ -44,7 +44,7 @@ Building intelligent software through Artificial Intelligence, scalable backend 
 
 # 🚀 About Me
 
-🎓 Second-Year **B.Tech (Honors)** Student specializing in **Artificial Intelligence & Data Analytics**
+🎓 **B.Tech (Honors)** Student specializing in **Artificial Intelligence & Data Analytics**
 
 💡 Passionate about building intelligent applications that combine Artificial Intelligence, scalable backend systems, automation, and modern web technologies.
 
